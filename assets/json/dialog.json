@@ -6,8 +6,27 @@
 			"newSpeaker" : "true"
 		},
 		{
+			"speaker":"minerva",
+			"dialog" :"OK but I present 'Programmed cat'",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker":"cat",
+			"dialog" :"Me o ww ",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker":"cat",
+			"dialog" :"He lLo Wooe rld"
+		},
+		{
 			"speaker" : "homer",
-			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted."
+			"dialog" : "Ok whatever",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "homer",
+			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted." 
 		},
 		{	
 			"speaker" : "homer",
